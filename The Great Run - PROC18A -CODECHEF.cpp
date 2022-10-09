@@ -26,7 +26,7 @@ Constraints
 
 1 \leq \mathbf{a_i} \leq 1001≤a 
 i
-​
+
  ≤100
 
 Sample 1:
